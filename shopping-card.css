@@ -1,0 +1,35 @@
+.list1{
+    display: flex;
+    justify-content: space-around;
+    margin-left: -100%;
+
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+}
+.account{
+    background-color: white;
+    width: 100%;
+    display: none;
+    position: fixed;
+    list-style-type: none;
+
+}
+.articles{
+    text-align: center;
+}
+.scard{
+    font-size: 20px;
+    color: green;
+}
+.spadri {
+    display: flex;
+}
+.klasset{
+    display: flex;
+}
+.kartaba{
+    display: flex;
+}
